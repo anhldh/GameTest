@@ -13,6 +13,7 @@ UserSettings/
 *.user
 *.unityproj
 *.booproj
+*.vsconfig
 
 # VSCode
 .vscode/
