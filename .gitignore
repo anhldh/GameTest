@@ -1,0 +1,26 @@
+# Unity
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+
+# Visual Studio
+*.csproj
+*.sln
+*.user
+*.unityproj
+*.booproj
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Optional
+bin/
+.vs/
